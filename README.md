@@ -1,2 +1,6 @@
 # ZabbixYaml
-Yaml-file that creates a zabbix docker-container
+- This only works on ubuntu for now
+## How to use
+...
+sudo apt -y install docker.io docker-compose
+...
