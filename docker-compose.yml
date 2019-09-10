@@ -1,5 +1,5 @@
 version: '3.1'
-services:
+services: # make sure you have ports 80, 443 and 3306 open for use
   postgres-server:
     image: postgres
     restart: always
