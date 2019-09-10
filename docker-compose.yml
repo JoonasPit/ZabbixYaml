@@ -1,6 +1,5 @@
 version: '3'
 services:
-	#This will be swapped to mariadb
   postgres-server:
     image: postgres:latest
     restart: always
